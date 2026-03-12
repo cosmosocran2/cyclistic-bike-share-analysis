@@ -11,6 +11,7 @@ The primary business objective of this project was to analyze 12 months of histo
 
 
 **The Tech Stack & Architecture**
+
 To process and analyze 3.6 million rows of data efficiently, I engineered a robust ETL (Extract, Transform, Load) pipeline and visualization workflow using enterprise-grade tools:
 
 Python: Automated the extraction of 12 months of raw CSV files (March 2025 – February 2026) from an AWS S3 bucket and loaded them into a local database.
@@ -21,6 +22,7 @@ Tableau: Connected directly to the MySQL database to design an interactive, exec
 
 
 **Key Insights & Strategic Recommendations**
+
 The analysis revealed a stark behavioral divide:
 
 The Daily Commuter: Annual members exhibit a bimodal traffic pattern, heavily utilizing the bikes during morning (8:00 AM) and evening (5:00 PM) rush hours during the workweek for short, efficient, ~12-minute point-to-point rides.
@@ -29,4 +31,5 @@ The Weekend Warrior: Casual riders display a unimodal traffic pattern, peaking i
 
 
 **Actionable Next Steps:**
+
 Rather than targeting casual riders with weekday commuter campaigns, marketing efforts should be reallocated to "Weekend Warrior" initiatives. Recommendations include creating a weekend-specific annual pass, deploying location-based digital ads near tourist hubs on Friday afternoons, and gamifying the app to reward long weekend rides with heavily discounted introductory annual memberships.

@@ -7,7 +7,7 @@ import zipfile
 import shutil
 
 # 1. Database Connection (Remember your password!)
-db_connection_string = 'mysql+pymysql://ocran:EV48XHTVDco.@localhost/cyclistic_db'
+db_connection_string = 'mysql+pymysql://username:password.@localhost/cyclistic_db'
 engine = create_engine(db_connection_string)
 
 # 2. Define the exact 12 months we want (March 2025 to February 2026)

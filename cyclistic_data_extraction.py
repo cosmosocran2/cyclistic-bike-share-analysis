@@ -6,7 +6,7 @@ import urllib.request
 import zipfile
 import shutil
 
-# 1. Database Connection (username and passwordare placeholders for the actual credentials for security purposes reasons)
+# 1. Database Connection (username and passwordare placeholders for the actual credentials sql server. Actuals eliminated for security reasons)
 db_connection_string = 'mysql+pymysql://username:password.@localhost/cyclistic_db'
 engine = create_engine(db_connection_string)
 

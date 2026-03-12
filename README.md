@@ -33,3 +33,5 @@ The Weekend Warrior: Casual riders display a unimodal traffic pattern, peaking i
 **Actionable Next Steps:**
 
 Rather than targeting casual riders with weekday commuter campaigns, marketing efforts should be reallocated to "Weekend Warrior" initiatives. Recommendations include creating a weekend-specific annual pass, deploying location-based digital ads near tourist hubs on Friday afternoons, and gamifying the app to reward long weekend rides with heavily discounted introductory annual memberships.
+
+<img width="1883" height="932" alt="visualization_of_findings" src="https://github.com/user-attachments/assets/508bddb3-306e-42fa-972e-ca1e87710c89" />
